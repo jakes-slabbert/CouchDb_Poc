@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouchDb_Poc", "CouchDb_Poc\CouchDb_Poc.csproj", "{CC333D84-A979-4782-84E1-139EEEAB5121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC333D84-A979-4782-84E1-139EEEAB5121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC333D84-A979-4782-84E1-139EEEAB5121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC333D84-A979-4782-84E1-139EEEAB5121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC333D84-A979-4782-84E1-139EEEAB5121}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F07B9C0-CF52-45A5-A5DB-80090CBFC98A}
+	EndGlobalSection
+EndGlobal
